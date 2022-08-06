@@ -1,0 +1,37 @@
+[
+    {
+        "image": "",
+        "name": "Vegetable",
+        "price": "12.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "Steak",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "Pork",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "BBQ Pork",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "Prawn",
+        "price": "14.90"
+    },
+    {
+        "image": "",
+        "name": "Combination Meat",
+        "price": "14.90"
+    }
+]

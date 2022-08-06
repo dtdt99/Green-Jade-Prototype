@@ -1,0 +1,58 @@
+[  
+      {
+    "image": "",
+    "name": "Ham Burger",
+    "price": "3.50"
+},
+    {
+        "image": "",
+        "name": "Chicken Burger(Special)",
+        "price": "3.80"
+    },
+    {
+        "image": "",
+        "name": "Fish Burger(Special)",
+        "price": "3.80"
+    },
+    {
+        "image": "",
+        "name": "Egg Burger",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Cheese Burger",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Hawaiian Burger",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Bacon Burger",
+        "price": "5.50"
+    },
+    {
+        "image": "",
+        "name": "Fish Burger",
+        "price": "5.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken Burger",
+        "price": "6.00"
+    },
+    {
+        "image": "",
+        "name": "Vege Burger",
+        "price": "5.50"
+    },
+    {
+        "image": "",
+        "name": "Steak Burger",
+        "price": "6.00"
+    }
+
+]

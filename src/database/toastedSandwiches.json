@@ -1,0 +1,47 @@
+[
+    {
+        "image": "",
+        "name": "Chicken(Special)",
+        "price": "3.00"
+    },
+    {
+        "image": "",
+        "name": "Cheese(With or without Onion)",
+        "price": "3.20"
+    },
+    {
+        "image": "",
+        "name": "Egg",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Ham",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Bacon",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Sweet Corn",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Mushroom",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Steak",
+        "price": "4.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken",
+        "price": "4.50"
+    }
+]

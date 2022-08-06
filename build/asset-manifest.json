@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93bd1cff.css",
+    "main.js": "/static/js/main.1add2898.js",
+    "static/media/MontserratBold-DOWZd.ttf": "/static/media/MontserratBold-DOWZd.d74ab070332e4ac790c2.ttf",
+    "static/media/MontserratLight-ywBvq.ttf": "/static/media/MontserratLight-ywBvq.380c6b5efc496dbfa7cb.ttf",
+    "static/media/QueensParkBoldItalic-4yjY.ttf": "/static/media/QueensParkBoldItalic-4yjY.b962bfa2e3f8b171c724.ttf",
+    "static/media/Italianno-Regular-OTF.otf": "/static/media/Italianno-Regular-OTF.d7a7c06d7ff96913df56.otf",
+    "static/media/floralLargerM.jpeg": "/static/media/floralLargerM.31f1dbbb14e209f884a3.jpeg",
+    "static/media/gratisan.otf": "/static/media/gratisan.fa77131d1e407e8daf44.otf",
+    "static/media/alexBrush.ttf": "/static/media/alexBrush.b50947ef756f43126a52.ttf",
+    "static/media/playBall.ttf": "/static/media/playBall.5a38da5344c3022c22bb.ttf",
+    "static/media/radicalis.ttf": "/static/media/radicalis.8ac851235c5dba03926c.ttf",
+    "static/media/insecure.ttf": "/static/media/insecure.642c7477828f60ea420d.ttf",
+    "index.html": "/index.html",
+    "main.93bd1cff.css.map": "/static/css/main.93bd1cff.css.map",
+    "main.1add2898.js.map": "/static/js/main.1add2898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bd1cff.css",
+    "static/js/main.1add2898.js"
+  ]
+}

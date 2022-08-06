@@ -1,0 +1,38 @@
+[
+    {
+        "image": "",
+        "name": "Vegetable Soup",
+        "price": "7.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken Sweet Corn Soup",
+        "price": "8.00"
+    },
+    {
+        "image": "",
+        "name": "Chicken Noodle Soup",
+        "price": "9.00"
+    },
+    {
+        "image": "",
+        "name": "Crab Meat Soup",
+        "price": "10.00"
+    },
+    {
+        "image": "",
+        "name": "Wonton Soup(With BBQ Pork)",
+        "price": "11.00"
+    },
+    {
+        "image": "",
+        "name": "Seafood Soup",
+        "price": "12.00"
+    },
+    {
+        "image": "",
+        "name": "Combination Meat Wonton Noodle Soup",
+        "price": "11.50"
+    }
+
+]

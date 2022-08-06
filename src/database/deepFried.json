@@ -1,0 +1,122 @@
+[
+    {
+        "image": "",
+        "name": "Chips(minimum)",
+        "price": "3.00"
+    },
+    {
+        "image": "",
+        "name": "Hoki",
+        "price": "3.50"
+    },
+    {
+        "image": "",
+        "name": "Gurnard",
+        "price": "3.80"
+    },
+    {
+        "image": "",
+        "name": "Tarakihi",
+        "price": "4.50"
+    },
+    {
+        "image": "",
+        "name": "Snapper(Fresh)",
+        "price": "5.50"
+    },
+    {
+        "image": "",
+        "name": "Sausage",
+        "price": "1.50"
+    },
+    {
+        "image": "",
+        "name": "Battered Sausage",
+        "price": "1.90"
+    },
+    {
+        "image": "",
+        "name": "Potato Fritter",
+        "price": "1.00"
+    },
+    {
+        "image": "",
+        "name": "Pineapple Fritter",
+        "price": "1.00"
+    },
+    {
+        "image": "",
+        "name": "Spring Roll",
+        "price": "2.50"
+    },
+    {
+        "image": "",
+        "name": "Curry Roll",
+        "price": "2.50"
+    },
+    {
+        "image": "",
+        "name": "Crab Stick",
+        "price": "1.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken Nuggets (6 piece)",
+        "price": "3.50"
+    },
+    {
+        "image": null,
+        "name": "Chicken Wings (6 piece)",
+        "price": "7.50"
+    },
+    {
+        "image": null,
+        "name": "Crispy Chicken (Half)",
+        "price": "8.00"
+    },
+    {
+        "image": null,
+        "name": "Crispy Chicken (Whole)",
+        "price": "16.00"
+    },
+    {
+        "image": null,
+        "name": "Deep Fried Wontons (1 piece)",
+        "price": "1.00"
+    },
+    {
+        "image": null,
+        "name": "Hot Dog",
+        "price": "2.20"
+    },
+    {
+        "image": null,
+        "name": "Donut",
+        "price": "1.50"
+    },
+    {
+        "image": null,
+        "name": "Fish Cake",
+        "price": "2.50"
+    },
+    {
+        "image": null,
+        "name": "Mussel",
+        "price": "1.50"
+    },
+    {
+        "image": null,
+        "name": "Oyster",
+        "price": "2.00"
+    },
+    {
+        "image": null,
+        "name": "Scallop",
+        "price": "2.00"
+    },
+    {
+        "image": null,
+        "name": "Squid Ring",
+        "price": "1.50"
+    }
+]

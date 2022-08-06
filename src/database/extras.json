@@ -1,0 +1,62 @@
+[
+    {
+        "image": "",
+        "name": "Container of Tartare Sauce",
+        "price": "2.00"
+    },
+    {
+        "image": "",
+        "name": "Container of Tomato Sauce",
+        "price": "2.00"
+    },
+    {
+        "image": "",
+        "name": "Container of Mayonnaise",
+        "price": "2.00"
+    },
+    {
+        "image": "",
+        "name": "Steam White Rice(Small)",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Steam White Rice(Mediuum)",
+        "price": "6.00"
+    },
+    {
+        "image": "",
+        "name": "Steam White Rice(Large)",
+        "price": "7.50"
+    },
+    {
+        "image": "",
+        "name": "Carton of Vegetables",
+        "price": "6.90"
+    },
+    {
+        "image": "",
+        "name": "Container of Mushrooms",
+        "price": "6.90"
+    },
+    {
+        "image": "",
+        "name": "Carton of BBQ Pork",
+        "price": "10.90"
+    },
+    {
+        "image": "",
+        "name": "Extra Mushrooms on Dishes",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Extra Cashew Nuts on Dishes",
+        "price": "4.00"
+    },
+    {
+        "image": "",
+        "name": "Extra Meat on Dishes",
+        "price": "4.00"
+    }
+]

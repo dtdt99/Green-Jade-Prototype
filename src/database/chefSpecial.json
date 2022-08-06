@@ -1,0 +1,62 @@
+[
+    {
+        "image": "",
+        "name": "Beef & Tomatoes",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Beef, Ginger & Shallots",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Braised Pork & Pineapple",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Braised Chicken & Cashews",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Crispy Chicken & Vegetables",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "BBQ Pork & Mushrooms",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Braised Chicken & Satay Sauce",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "BBQ Pork & Hoi San Sauce",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Squid & Vegetables",
+        "price": "15.90"
+    },
+    {
+        "image": "",
+        "name": "Scallops & Vegetables",
+        "price": "16.90"
+    },
+    {
+        "image": "",
+        "name": "King Prawn & Vegetables",
+        "price": "16.90"
+    },
+    {
+        "image": "",
+        "name": "Combination Seafood & Vegetables",
+        "price": "16.90"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "description": "2 Fish, 2 Sausage, $1 chips",
+        "image": "",
+        "name": "$9 Special",
+        "price": "9.00"
+    },
+    {
+        "description": "2 Fish, 2 Hot Dog, 2 Potato Fritter, $3 Chips",
+        "image": "",
+        "name": "Special - A",
+        "price": "14.0"
+    },
+    {
+        "description": "4 Fish, 4 Sausage, $3 Chips",
+        "image": "",
+        "name": "Special - B",
+        "price": "19.0"
+    },
+    {
+        "description": "4 Fish, 4 Sausage, 4 Potato Fritter, $3 Chips",
+        "image": "",
+        "name": "Special - C",
+        "price": "22.0"
+    },
+    {
+        "description": "3 Snapper, 3 Hot Dog, 3 Crab Stick, $3 Chips",
+        "image": "",
+        "name": "Special - D",
+        "price": "25.0"
+    },
+
+    {
+        "description": "6 Fish, 6 Sausage, 6 Crab Sticks, $6 Chips",
+        "image": "",
+        "name": "$36 Special",
+        "price": "36.0"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "4 Gurnard Special",
+        "price": "14.0"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "4 Tarakihi Special",
+        "price": "16.0"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "4 Snapper Special ",
+        "price": "20.0"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "6 Mussel Special",
+        "price": "7.50"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "6 Oyster Special",
+        "price": "10.0"
+    },
+    {
+        "description": "",
+        "image": "",
+        "name": "6 Scallop Special",
+        "price": "10.0"
+    },
+    {
+        "description": "4 Fish, 4 Crab Stick, $3 Chips",
+        "image": "",
+        "name": "$19 Special (Crab Sticks)",
+        "price": "19.0"
+    }
+]

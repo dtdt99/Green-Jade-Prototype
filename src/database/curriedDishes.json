@@ -1,0 +1,47 @@
+[
+    {
+        "image": "",
+        "name": "Vegetables",
+        "price": "12.00"
+    },
+    {
+        "image": "",
+        "name": "Chicken",
+        "price": "14.00"
+    },
+    {
+        "image": "",
+        "name": "Steak",
+        "price": "14.00"
+    },
+    {
+        "image": "",
+        "name": "Pork",
+        "price": "14.00"
+    },
+    {
+        "image": "",
+        "name": "BBQ Pork",
+        "price": "14.00"
+    },
+    {
+        "image": "",
+        "name": "Combination Meat",
+        "price": "15.90"
+    },
+    {
+        "image": "",
+        "name": "NasiGorang(Rice)",
+        "price": "15.90"
+    },
+    {
+        "image": "",
+        "name": "BamiGorang(noodles)",
+        "price": "15.90"
+    },
+    {
+        "image": "",
+        "name": "Singapore Noodles",
+        "price": "15.90"
+    }
+]

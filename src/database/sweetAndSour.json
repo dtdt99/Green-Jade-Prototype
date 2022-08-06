@@ -1,0 +1,43 @@
+[
+    {
+        "image": "",
+        "name": "Pork",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken",
+        "price": "15.50"
+    },
+    {
+        "image": "",
+        "name": "Fish",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "Wontons",
+        "price": "14.50"
+    },
+    {
+        "image": "",
+        "name": "Chicken Wings",
+        "price": "15.50"
+    },
+
+    {
+        "image": "",
+        "name": "Lemon Fish",
+        "price": "14.90"
+    },
+    {
+        "image": "",
+        "name": "Lemon Chicken",
+        "price": "15.90"
+    },
+    {
+        "image": "",
+        "name": "Combination(Pork, Chicken, Wonton, Chicken Wings)",
+        "price": "16.50"
+    }
+]

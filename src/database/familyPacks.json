@@ -1,0 +1,38 @@
+[
+    {
+        "description": "6 Wontons, BBQ Pork Fried Rice, Chicken Chow Mein, Sweet & Sour Pork",
+        "image": "",
+        "name": "Family A",
+        "price": "43.0"
+    },
+    {
+        "description": "6 Wontons, 2 Spring Rolls, Chicken Fried Rice, Steak Chow Mein, Combination Meat Egg Foo Young",
+        "image": "",
+        "name": "Family B",
+        "price": "48.0"
+    },
+    {
+        "description": "6 Wontons, 6 Chicken Wings, BBQ Pork Fried Rice, Braised Chicken and Cashew Nuts, Curried Combination Meat, Sweet & Sour Chicken",
+        "image": "",
+        "name": "Family C",
+        "price": "62.0"
+    },
+    {
+        "description": "12 Wontons, 3 Spring Rolls, Beef and Mushrooms, Combination Meat Fried Rice, Chicken Chow Mein, Sweet & Sour Pork\r\n",
+        "image": "",
+        "name": "Family D",
+        "price": "66.0"
+    },
+    {
+        "description": "Chicken Chow Mein With Cashew Nuts, Sweet & Sour Pork, Steak Fried Rice, BBQ Pork & Mushroom Egg Foo Young",
+        "image": "",
+        "name": "Family No.1",
+        "price": "56.0"
+    },
+    {
+        "description": "Steak Chow Mein, BBQ Pork Fried Rice, Sweet & Sour Fish, Curried Chicken, 6 Wontons",
+        "image": "",
+        "name": "Family No.2",
+        "price": "56.0"
+    }
+]
